@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Resistance Fitness Club :: Index</title>
+    <meta name="Keywords" content="">
+    <meta name="Description"
+        content="Resistance Fitness Club is the leading fitness gym near you. Our science-backed, personal trainer led fitness class produces results!">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">
+    <link href="css/aos.css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/form-limited-bootstrap.css">
+    <link rel="stylesheet" href="css/flickity.min.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/ban-slider.css" />
+    <link type="text/css" rel="stylesheet" href="css/responsive.css">
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+
+</head>
+
+<body data-aos-easing="ease" data-aos-duration="600" data-aos-delay="0" class="demo svg-ready intro-slide">
+
+    <div id="demo-content">
+        <div id="loader-wrapper">
+            <div id="loader">
+                <div><img src="img/index-logo.png" alt=""></div>
+            </div>
+
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+    </div>
+
+
+    <div id="aurora_page_wrapper" class="aurora_home" data-slug="home">
+        <div id="otf-ns" class="wrapper page-wrapper">
+            <div id="global-header-wrap">
+                <div id="global-header">
+                    <div id="nav-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+
+                    <div class="brand">
+                        <a href="index.html" class="le_current_link"><img src="img/logo.png"
+                                alt="Resistance Fitness Club"></a>
+                    </div>
+
+                    <div class="global-navs">
+                        <nav class="global-nav primary-nav">
+                            <ul le_menu_name="Primary Nav Left" class="le_menu le_menu_level_0">
+                                <li class="le_menuitem_level_0 whyItWorksMenu"><a href="#">Why It Works</a>
+                                    <div class="le_menu_level_container le_menu_level_1_container">
+                                        <ul class="le_menu_level_1">
+                                            <li class="le_menuitem_level_1"><a href="workout-levels.html">The
+                                                    Workout</a></li>
+                                            <li class="le_menuitem_level_1"><a href="science-fitness.html">Science</a>
+                                            </li>
+                                            <li class="le_menuitem_level_1"><a href="#">Coaching</a></li>
+                                            <li class="le_menuitem_level_1"><a href="#">Technology</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="le_menuitem_level_0 membershipsMenu"><a href="gallery.html">Gallery</a></li>
+                                <li class="le_menuitem_level_0 membershipsMenu"><a href="#">Memberships</a>
+                                    <div class="le_menu_level_container le_menu_level_1_container">
+                                        <ul class="le_menu_level_1">
+                                            <li class="le_menuitem_level_1"><a href="individual.html">Individual</a>
+                                            </li>
+                                            <li class="le_menuitem_level_1"><a href="corporate.html">Corporate</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </nav>
+
+                        <nav class="global-nav secondary-nav">
+                            <ul le_menu_name="Primary Nav Right" class="le_menu le_menu_level_0">
+                                <li class="le_menuitem_level_0"><a href="contact.html">Location</a></li>
+                                <li class="le_menuitem_level_0"><a href="#">Own a Franchise</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <main class="main-content">
+                <div class="home-hero-img">
+                    <ul class="cb-slideshow">
+                        <li><span>Image 01</span>
+                            <div>
+                                <h3></h3>
+                            </div>
+                        </li>
+                        <li><span>Image 02</span>
+                            <div>
+                                <h3></h3>
+                            </div>
+                        </li>
+                        <li><span>Image 03</span>
+                            <div>
+                                <h3></h3>
+                            </div>
+                        </li>
+                        <li><span>Image 04</span>
+                            <div>
+                                <h3></h3>
+                            </div>
+                        </li>
+                        <li><span>Image 05</span>
+                            <div>
+                                <h3></h3>
+                            </div>
+                        </li>
+                        <li><span>Image 06</span>
+                            <div>
+                                <h3></h3>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <section class="home-after-hero gray-grad overflow-hidden" data-type="parallax" data-speed="2"
+                    data-offsetheight="1.5" style="z-index: 1;">
+                    <div id="le_section-two" le_region_slug="section-two" le_region_uuid="section-two"
+                        le_region_name="Section-two" le_region_type="content" le_region_editable="true"
+                        class="le_region_block le_section-two">
+                        <div class="content-container padded">
+                            <div id="le_section-two-content1" le_region_slug="section-two-content1"
+                                le_region_uuid="section-two-content1" le_region_name="Section-two-content 1"
+                                le_region_type="content" le_region_editable="true"
+                                class="le_region le_section-two-content1">
+                                <div class="le_content limit-width-700 center-block intro-text-large"
+                                    le_content_type="text" id="le_5b41163664288" le_content_uuid="5b41163664288"
+                                    data-best_fit="1" data-attr_width="">
+                                    <h1 class="h3 aos-init" data-aos="fade-up"><span
+                                            style="font-size: 36px; text-transform: uppercase;"><em><span
+                                                    style="color: #abff00;">More Than</span> A gym</em></span></h1>
+                                    <p data-aos="fade-up" class="aos-init">
+                                        <p>Variety is the Spice of Fitness: Diversify your Workouts. Variety can help
+                                            make sure that your workouts continuous to "Work for you", we all have
+                                            different fitness goals; whether its to lose weight, gain strength, or get
+                                            in some "ME" time. We strategically incorporate numerous types of multiple
+                                            training methods to accomplish every aspect & components of fitness.</p>
+                                        <p data-aos="fade-right" class="aos-init"><a
+                                                class="se_button largeButton mt-10 mb-20" href="variety-fitness.html">
+                                                WHY IT WORKS </a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div id="le_section-trifecta" le_region_slug="section-trifecta" le_region_uuid="section-trifecta"
+                    le_region_name="Section-trifecta" le_region_type="content" le_region_editable="true"
+                    class="le_region_block le_section-trifecta">
+                    <div id="le_trifecta-container" le_region_slug="trifecta-container"
+                        le_region_uuid="trifecta-container" le_region_name="Trifecta-container" le_region_type="content"
+                        le_region_editable="true" class="le_region le_trifecta-container">
+                        <div class="le_content" le_content_type="html" id="le_5bb26d86ebbe2"
+                            le_content_uuid="5bb26d86ebbe2" data-best_fit="1" data-attr_width="">
+                            <div id="main">
+                                <div class="animation-box gallery-js-ready autorotation-active" data-duration="6">
+                                    <div class="box">
+                                        <svg id="color-fill" xmlns="http://www.w3.org/2000/svg" version="1.1"
+                                            width="1480" height="831" viewBox="0 0 1480 831"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink">
+                                            <defs>
+                                                <lineargradient id="linear" x1="0" y1="56%" x2="100%" y2="0">
+                                                    <stop offset="0%" stop-color="rgba(255,234,97, 0.5)"></stop>
+                                                    <stop offset="100%" stop-color="rgba(255,250,198, 0.5)"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                            <defs>
+                                                <lineargradient id="linearTriangle" x1="0" y1="56%" x2="100%" y2="0">
+                                                    <stop offset="0%" stop-color="rgba(255,255,255, 0.3)"></stop>
+                                                    <stop offset="100%" stop-color="rgba(255,255,255, .9)"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                            <defs>
+                                                <lineargradient id="linearOctogon" x1="0" y1="56%" x2="100%" y2="0">
+                                                    <stop offset="0%" stop-color="rgba(248,230,148, 0.3)"></stop>
+                                                    <stop offset="100%" stop-color="#f8e694"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                            <defs>
+                                                <lineargradient id="linearActive1" x1="0" y1="0" x2="100%" y2="0">
+                                                    <stop offset="0%" stop-color="rgba(244,158,65,1)"></stop>
+                                                    <stop offset="100%" stop-color="rgba(243,111,33,0)"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                            <defs>
+                                                <lineargradient id="linearActive2" x1="0" y1="0" x2="0" y2="100%">
+                                                    <stop offset="0%" stop-color="rgba(243,111,33,0)"></stop>
+                                                    <stop offset="100%" stop-color="rgba(244,158,65,1)"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                            <defs>
+                                                <lineargradient id="linearActive3" x1="0" y1="0" x2="100%" y2="0">
+                                                    <stop offset="0%" stop-color="rgba(243,111,33,0)"></stop>
+                                                    <stop offset="100%" stop-color="rgba(244,158,65,1)"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                            <g class="anim-clone" data-svg-origin="755.5 423.8332568359374"
+                                                transform="matrix(0,-1,1,0,707.579852709961,1155.9838580566407)"
+                                                style="opacity: 1; transform-origin: 0px 0px 0px;">
+                                                <path d="M755,234L859,297L860,413L755,472L651,414L651,296Z"
+                                                    fill="url(#linear)" class="brill brill1" data-svg-origin="755.5 472"
+                                                    transform="matrix(20,0,0,20,-14354.5,-8968)"
+                                                    style="transform-origin: 0px 0px 0px;"></path>
+                                                <path d="M809,330L913,393L913,509L809,568L705,509L705,393Z"
+                                                    fill="url(#linear)" class="brill brill2" data-svg-origin="809 449"
+                                                    transform="matrix(1,0,0,1,0,1.5600000000001728)"
+                                                    style="transform-origin: 0px 0px 0px;"></path>
+                                                <path d="M699,330L803,393L803,509L699,568L595,509L595,393Z"
+                                                    fill="url(#linear)" class="brill brill3"
+                                                    data-svg-origin="803 394.26" transform="matrix(1,0,0,1,0,0)"
+                                                    style=""></path>
+
+                                            </g>
+                                            <g class="main" data-svg-origin="754 418"
+                                                transform="matrix(0,1,-1,0,1545.47378,-352.89224)"
+                                                style="transform-origin: 0px 0px 0px;">
+                                                <g class="brills" style="opacity: 0;">
+                                                    <path d="M755,234L859,297L860,413L755,472L651,414L651,296Z"
+                                                        fill="url(#linear)" class="brill brill1"></path>
+                                                    <path d="M809,330L913,393L913,509L809,568L705,509L705,393Z"
+                                                        fill="url(#linear)" class="brill brill2"></path>
+                                                    <path d="M699,330L803,393L803,509L699,568L595,509L595,393Z"
+                                                        fill="url(#linear)" class="brill brill3"></path>
+                                                </g>
+
+                                                <g class="lines" data-svg-origin="755.0000305175781 413.00001525878906"
+                                                    transform="matrix(1,0,0,1,0,0)"
+                                                    style="transform-origin: 0px 0px 0px; opacity: 0;">
+                                                    <path d="M755,286L864,349L864,477L755,540L646,477L646,349Z"
+                                                        style="stroke: rgba(255, 255, 255, 0.7); stroke-width: 1; transform-origin: 0px 0px 0px;"
+                                                        fill="transparent" class="frame" data-svg-origin="755 413"
+                                                        transform="matrix(1.45,0,0,1.45,-339.75,-185.85000000000002)">
+                                                    </path>
+                                                </g>
+                                                <g class="rotate-holder">
+                                                    <path d="M755,229L918,326L918,509L755,606L590,509L590,326Z"
+                                                        fill="transparent" stroke-width="1" stroke="url(#linearOctogon)"
+                                                        id="main-circuit"
+                                                        style="opacity: 1; transform-origin: 0px 0px 0px;"
+                                                        data-svg-origin="754 417.5" transform="matrix(1,0,0,1,0,0)">
+                                                    </path>
+                                                    <g class="triangles">
+                                                        <path d="M755,229L918,509L590,509Z" fill="transparent"
+                                                            stroke-width="1" stroke="url(#linearTriangle)"
+                                                            class="triangle" style="opacity: 1;"></path>
+                                                        <path d="M918,326L755,606L590,326Z" fill="transparent"
+                                                            stroke-width="1" stroke="url(#linearTriangle)"
+                                                            class="triangle" style="opacity: 1;"></path>
+                                                    </g>
+                                                    <g class="circles" data-svg-origin="755 414"
+                                                        transform="matrix(1,0,0,1,0,0)"
+                                                        style="transform-origin: 0px 0px 0px;">
+                                                        <circle cx="755" cy="286" r="2" class="circle circle1"
+                                                            data-svg-origin="755 286" transform="matrix(1,0,0,1,0,-56)"
+                                                            style="transform-origin: 0px 0px 0px;"></circle>
+                                                        <circle cx="864" cy="349" r="2" class="circle circle2"
+                                                            data-svg-origin="864 349" transform="matrix(1,0,0,1,54,-23)"
+                                                            style="transform-origin: 0px 0px 0px;"></circle>
+                                                        <circle cx="864" cy="477" r="2" class="circle circle3"
+                                                            data-svg-origin="864 477" transform="matrix(1,0,0,1,54,32)"
+                                                            style="transform-origin: 0px 0px 0px;"></circle>
+                                                        <circle cx="755" cy="540" r="2" class="circle circle4"
+                                                            data-svg-origin="755 540" transform="matrix(1,0,0,1,0,66)"
+                                                            style="transform-origin: 0px 0px 0px;"></circle>
+                                                        <circle cx="646" cy="477" r="2" class="circle circle5"
+                                                            data-svg-origin="646 477" transform="matrix(1,0,0,1,-56,32)"
+                                                            style="transform-origin: 0px 0px 0px;"></circle>
+                                                        <circle cx="646" cy="349" r="2" class="circle circle6"
+                                                            data-svg-origin="646 349"
+                                                            transform="matrix(1,0,0,1,-56,-23)"
+                                                            style="transform-origin: 0px 0px 0px;"></circle>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </svg>
+                                    </div>
+
+                                    <div class="mask">
+                                        <div class="slider" style="margin-top: -1200px;">
+                                            <section class="section intro" style="height: 600px;">
+                                                <div class="fp-tableCell" style="height: 600px;">
+                                                    <div class="content">
+                                                        <strong class="title">Welcome to Resistance Fitness
+                                                            Club</strong>
+                                                        <p>Introducing 360<sup>0</sup> Power Bungee Fitness, overspeed
+                                                            recoil cable sprints (Dynamic Resistance Bungee Running)
+                                                            Kinelastics transformation first time in India.</p>
+                                                    </div>
+                                                </div>
+                                            </section>
+
+                                            <section class="section" style="height: 600px;">
+                                                <div class="fp-tableCell" style="height: 600px;">
+                                                    <div class="content">
+                                                        <strong class="title">Science</strong>
+                                                        <p>Based on principles of Biomechanics & kinesiology we design
+                                                            innovative customized workouts for specific personal fitness
+                                                            goals.</p>
+                                                    </div>
+                                                </div>
+                                            </section>
+
+                                            <section class="section active" style="height: 600px;">
+                                                <div class="fp-tableCell" style="height: 600px;">
+                                                    <div class="content">
+                                                        <strong class="title">Coaching</strong>
+                                                        <p>You'll get the energy of a group workout with the attention
+                                                            and inspiration from an experienced personal coach.</p>
+                                                    </div>
+                                                </div>
+                                            </section>
+
+                                            <section class="section" style="height: 600px;">
+                                                <div class="fp-tableCell" style="height: 600px;">
+                                                    <div class="content">
+                                                        <strong class="title">Workouts</strong>
+                                                        <p>Experience the magic of the Resistnace Fitness to spike
+                                                            metabolism, boost energy, and truly change your body from
+                                                            the inside out.</p>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+
+                                    <div class="pagination">
+                                        <ul>
+                                            <li class=""><a href="#">1</a></li>
+                                            <li class=""><a href="#">2</a></li>
+                                            <li class="active"><a href="#">3</a></li>
+                                            <li class=""><a href="#">4</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="timer" style="opacity: 0.65;">
+                                        <canvas width="24" height="24"></canvas>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <section class="gray-grad" data-type="parallax" data-offsetheight=".95" data-speed="1.75">
+                    <div id="le_section-four-content1" le_region_slug="section-four-content1"
+                        le_region_uuid="section-four-content1" le_region_name="Section-four-content 1"
+                        le_region_type="content" le_region_editable="true" class="le_region le_section-four-content1">
+                        <div class="le_content mt--15 z-index-up" le_content_type="html" id="le_5b85e4cfecb81"
+                            le_content_uuid="5b85e4cfecb81" data-best_fit="1" data-attr_width="">
+                            <div class="content-container">
+                                <div class="small-cta-cards aos-init" data-aos="fade-down" data-aos-duration="750">
+                                    <a href="core-power.html" class="small-cta-card small-img1">
+                                        <div>&nbsp;</div>
+                                        <div class="small-card-title">Core Power <span class="hd-green">Programme</span>
+                                        </div>
+                                    </a>
+
+                                    <a href="power-bungee.html" class="small-cta-card small-img2">
+                                        <div>&nbsp;</div>
+                                        <div class="small-card-title">360<sup>0</sup> Power <span
+                                                class="hd-green">Bungee</span></div>
+                                    </a>
+
+                                    <a href="kinelastics-trans.html" class="small-cta-card small-img3">
+                                        <div>&nbsp;</div>
+                                        <div class="small-card-title">Kinelastics <span
+                                                class="hd-green">Transformation</span></div>
+                                    </a>
+
+                                    <a href="xtreme-sports-cond.html" class="small-cta-card small-img4">
+                                        <div>&nbsp;</div>
+                                        <div class="small-card-title">Xtreme Sports <span
+                                                class="hd-green">Conditioning</span></div>
+                                    </a>
+
+                                    <a href="cardio-boxing.html" class="small-cta-card small-img5">
+                                        <div>&nbsp;</div>
+                                        <div class="small-card-title">Box</br> <span class="hd-green">Fit</span></div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="content-container padded">
+                        <div id="le_section-four-content2" le_region_slug="section-four-content2"
+                            le_region_uuid="section-four-content2" le_region_name="Section-four-content 2"
+                            le_region_type="content" le_region_editable="true"
+                            class="le_region le_section-four-content2"></div>
+                    </div>
+
+                    <div class="content-container padded-desktop">
+                        <div id="le_section-four-content3" le_region_slug="section-four-content3"
+                            le_region_uuid="section-four-content3" le_region_name="Section-four-content 3"
+                            le_region_type="content" le_region_editable="true"
+                            class="le_region le_section-four-content3">
+                            <div class="le_content" le_content_type="html" id="le_5b85e67ac1bbd"
+                                le_content_uuid="5b85e67ac1bbd" data-best_fit="1" data-attr_width="">
+                                <div class="video-crop">
+                                    <div class="video-wrapper">
+                                        <iframe class="no-kuwait" id="autoplay-video" width="560" height="315"
+                                            src="video.mp4" frameborder="0" allow="autoplay; encrypted-media"
+                                            allowfullscreen=""></iframe>
+                                        <iframe class="kuwait-only" id="autoplay-video" width="560" height="315"
+                                            src="video.mp4" frameborder="0" allow="autoplay; encrypted-media"
+                                            allowfullscreen=""></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="le_content hide-me" le_content_type="html" id="le_5b86150861e88"
+                        le_content_uuid="5b86150861e88" data-best_fit="1">
+                        <div class="iframe-top">
+                            <div class="test-sec-slides aos-init aos-animate" data-aos="slide-left"
+                                data-aos-duration="1000" data-aos-offset="200" data-aos-easing="ease-in-out">
+
+                                <div class="courses cf" id="featured-courses">
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="elastic-battle.html" target="_parent"
+                                                class="medium-testimonial-card" aria-hidden="true">
+                                                <div class="testimonial-card-img"><img src="img/btm-slider/elastic.jpg"
+                                                        alt=""></div>
+                                                <div class="testimonial-card-name top-text-40">Elastic Battle <span
+                                                        class="hd-green">Ropes</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="plyometrics.html" target="_parent" class="medium-testimonial-card"
+                                                aria-hidden="true">
+                                                <div class="testimonial-card-img"><img
+                                                        src="img/btm-slider/plyometrics.jpg" alt=""></div>
+                                                <div class="testimonial-card-name top-text-40">Plyometrics <span
+                                                        class="hd-green">Training</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="anaerobic-fat-loss.html" target="_parent"
+                                                class="medium-testimonial-card" aria-hidden="true">
+                                                <div class="testimonial-card-img"><img
+                                                        src="img/btm-slider/anaerobic.jpg" alt=""></div>
+                                                <div class="testimonial-card-name top-text-40">EPOC Anaerobic <span
+                                                        class="hd-green">Fat Loss (HIIT)</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="cariovascular-aerobic.html" target="_parent"
+                                                class="medium-testimonial-card" aria-hidden="true">
+                                                <div class="testimonial-card-img"><img
+                                                        src="img/btm-slider/cariovascular.jpg" alt=""></div>
+                                                <div class="testimonial-card-name top-text-40">Cariovascular <span
+                                                        class="hd-green">Aerobic Fitness</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="joint-flexibility.html" target="_parent"
+                                                class="medium-testimonial-card" aria-hidden="true">
+                                                <div class="testimonial-card-img"><img src="img/btm-slider/joint.jpg"
+                                                        alt=""></div>
+                                                <div class="testimonial-card-name top-text-40">Joint</br> <span
+                                                        class="hd-green">Flexibility</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="thai-yoga.html" target="_parent" class="medium-testimonial-card"
+                                                aria-hidden="true">
+                                                <div class="testimonial-card-img"><img
+                                                        src="img/btm-slider/thai-yoga.jpg" alt=""></div>
+                                                <div class="testimonial-card-name top-text-40">Thai Yoga <span
+                                                        class="hd-green">Bodywork</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="stretching.html" target="_parent" class="medium-testimonial-card"
+                                                aria-hidden="true">
+                                                <div class="testimonial-card-img"><img
+                                                        src="img/btm-slider/stretching.jpg" alt=""></div>
+                                                <div class="testimonial-card-name top-text-65">Stretching</div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="youth-fitness.html" target="_parent"
+                                                class="medium-testimonial-card" aria-hidden="true">
+                                                <div class="testimonial-card-img"><img src="img/btm-slider/youth.jpg"
+                                                        alt=""></div>
+                                                <div class="testimonial-card-name top-text-40">Youth</br> <span
+                                                        class="hd-green">Fitness</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="active-people.html" target="_parent"
+                                                class="medium-testimonial-card" aria-hidden="true">
+                                                <div class="testimonial-card-img"><img src="img/btm-slider/senior.jpg"
+                                                        alt=""></div>
+                                                <div class="testimonial-card-name">Active People <span
+                                                        class="hd-green">(Senior Citizen Fitness)</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="course-item slide">
+                                        <div class="course-summary card">
+                                            <a href="agility-speed.html" target="_parent"
+                                                class="medium-testimonial-card" aria-hidden="true">
+                                                <div class="testimonial-card-img"><img src="img/btm-slider/agility.jpg"
+                                                        alt=""></div>
+                                                <div class="testimonial-card-name top-text-40">Agility and <span
+                                                        class="hd-green">Speed Training</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </main>
+
+            <footer id="global-footer">
+                <div class="content-container padded">
+                    <div class="footer-bottom">
+                        <div class="footer-secondary-menu footer-menu">
+                            <div class="footer-menu-container">
+                                <div class="footer-menu-title">Company</div>
+                                <ul le_menu_name="Footer Company" class="le_menu le_menu_level_0">
+                                    <li class="le_menuitem_level_0"><a href="immune-system.html">Immune System</a></li>
+                                    <li class="le_menuitem_level_0"><a href="resting-heart.html">Resting Heart</a></li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0" style="visibility: hidden;"><a href="#">&nbsp;</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="footer-menu-container">
+                                <div class="footer-menu-title">Our Studios</div>
+                                <ul le_menu_name="Footer Fitness Gym" class="le_menu le_menu_level_0">
+                                    <li class="le_menuitem_level_0"><a href="elastic-battle.html">Elastic Battle</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0"><a href="plyometrics.html">Plyometrics</a></li>
+                                    <li class="le_menuitem_level_0"><a href="anaerobic-fat-loss.html">EPOC Anaerobic</a>
+                                    </li>
+                                    <li class="le_menuitem_level_0"><a
+                                            href="cariovascular-aerobic.html">Cariovascular</a></li>
+                                    <li class="le_menuitem_level_0"><a href="joint-flexibility.html">Joint
+                                            Flexibility</a></li>
+                                    <li class="le_menuitem_level_0"><a href="thai-yoga.html">Thai Yoga</a></li>
+                                    <li class="le_menuitem_level_0"><a href="stretching.html">Stretching</a></li>
+                                    <li class="le_menuitem_level_0"><a href="youth-fitness.html">Youth Fitness</a></li>
+                                    <li class="le_menuitem_level_0"><a href="active-people.html">Active People</a></li>
+                                    <li class="le_menuitem_level_0"><a href="agility-speed.html">Agility</a></li>
+                                    <li class="le_menuitem_level_0"><a href="contact.html">Contact Us</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="footer-social-icons footer-menu-container">
+                                <div><img src="img/logo_m.png" alt=""></div>
+                                <hr>
+
+                                <div class="socials">
+                                    <a class="social" href="#" target="_blank"><span class="fa fa-facebook"></span></a>
+                                    <a class="social" href="https://www.instagram.com/resistancefit/"
+                                        target="_blank"><span class="fa fa-instagram"></span></a>
+                                    <a class="social" href="https://twitter.com/home" target="_blank"><span
+                                            class="fa fa-twitter"></span></a>
+                                    <a class="social" href="#" target="_blank"><span
+                                            class="fa fa-youtube-play"></span></a>
+                                    <a class="social" href="https://www.linkedin.com/feed/?trk=onboarding-landing"
+                                        target="_blank"><span class="fa fa-linkedin"></span></a>
+                                </div>
+
+                                <div class="footer-legal">©Copyright 2020. <span style="color: #00ffff;">Resistance
+                                        Fitness Club.</span> All rights reserved.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(window).load(function () {
+
+            $("#flexiselDemo1").flexisel({
+                visibleItems: 6,
+                animationSpeed: 1000,
+                autoPlay: true,
+                autoPlaySpeed: 3000,
+                pauseOnHover: false,
+                enableResponsiveBreakpoints: true,
+                responsiveBreakpoints: {
+                    portrait: {
+                        changePoint: 480,
+                        visibleItems: 2
+                    },
+                    landscape: {
+                        changePoint: 640,
+                        visibleItems: 2
+                    },
+                    tablet: {
+                        changePoint: 768,
+                        visibleItems: 3
+                    }
+                }
+            });
+        });
+    </script>
+
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap-growl.min.js"></script>
+    <script type="text/javascript" src="js/design.js"></script>
+    <script type="text/javascript" src="js/jquery.flexisel.js"></script>
+
+    <script type="text/javascript">
+        // Geolocation Check
+        //=========================================//
+
+        navigator.geolocation.getCurrentPosition(function (position) {
+
+            console.log('Geolocation Check');
+            let locationAddy = JSON.parse(localStorage.getItem('geolocation'));
+            let country = 'unknown';
+            for (i in locationAddy.address_components) {
+                if (locationAddy.address_components[i].short_name == 'US') {
+                    console.log('you are in the us');
+                    country = 'US';
+                }
+            }
+        }, function () {
+            console.log('Geolocation Fallback');
+            $('.onlyUS').hide();
+            $('.forInternational').show();
+        });
+
+        // Document Ready
+        //=========================================//
+
+        $(function () {
+
+            // Home page small cta cards
+            $('.small-cta-cards').flickity({
+                prevNextButtons: false,
+                pageDots: false,
+                autoPlay: 4500,
+                pauseAutoPlayOnHover: false,
+                watchCSS: true
+            });
+
+            let testimonialOptions = {
+                prevNextButtons: false,
+                pageDots: false,
+                autoPlay: false,
+                pauseAutoPlayOnHover: false,
+                wrapAround: true,
+                cellAlign: 'left'
+            };
+
+            if (matchMedia('screen and (max-width: 1024px)').matches) {
+                testimonialOptions.cellAlign = 'center';
+            }
+
+            $('.medium-testimonial-cards').flickity(testimonialOptions);
+
+            let newsOptions = {
+                prevNextButtons: false,
+                autoPlay: 4500,
+                pauseAutoPlayOnHover: false,
+                wrapAround: true
+            };
+
+            let carousel = document.getElementById('news-slider');
+            let slides = document.getElementsByClassName('news-slide');
+            let flkty = new Flickity(carousel, newsOptions);
+
+            if (matchMedia('screen and (min-width: 1024px)').matches) {
+                flkty.on('scroll', function () {
+                    flkty.slides.forEach(function (slide, i) {
+                        let image = slides[i];
+                        let x = (slide.target + flkty.x) * -1 / 2.5;
+                        image.style.backgroundPosition = x + 'px center';
+                    });
+                });
+            }
+
+            let $myCarousel = $('#home-hero-slider').flickity({
+                prevNextButtons: false,
+                autoPlay: 4500,
+                pauseAutoPlayOnHover: false,
+                wrapAround: true
+            });
+
+            let $loginEls = $('.otf-login-element');
+            let heroFlkty = $myCarousel.data('flickity');
+
+            $('.signInTrigger a').on('click', function () {
+                $loginEls.addClass('overhero');
+                heroFlkty.options.draggable = false;
+                heroFlkty.updateDraggable();
+            });
+
+            $(document).on('mouseup', function (e) {
+                if (!$loginEls.is(e.target) // if the target of the click isn't the container...
+                    && $loginEls.has(e.target).length === 0 // ... nor a descendant of the container
+                    && $loginEls.hasClass('overhero')) {
+                    $loginEls.removeClass('overhero');
+                    heroFlkty.options.draggable = true;
+                    heroFlkty.updateDraggable();
+                }
+            });
+
+            buildNewsSlider();
+
+            // Home Hero - Vertical offset content after header on mobile
+            //================================================================//
+
+            setTimeout(function () {
+                let cardHeight = $('.home-hero-card').outerHeight();
+                $('.home-after-hero').css({
+                    'margin-top': cardHeight
+                });
+            }, 100);
+
+        });
+
+        // Slide Builder
+        //=============================================//
+
+        function buildNewsSlider() {
+            $.get('apps/blog/post/tag/homeslider', function (postContent) {
+                for (i = 0; i <= 2; i++) {
+                    let excerptLength = 200;
+                    let featureImg = $(postContent).find(".postHeader:eq(" + i + ")").find('img').attr('src');
+                    let postTitle = $(postContent).find(".postHeader:eq(" + i + ")").find('.postTitle a').text();
+                    let postUrl = $(postContent).find(".postHeader:eq(" + i + ")").find('.postTitle a').attr('href');
+                    let postExOrg = $(postContent).find(".postContent:eq(" + i + ")").text().length;
+                    let postEx = $(postContent).find(".postContent:eq(" + i + ")").text().substring(0, excerptLength);
+                    postEx = postEx.replace(/\s+\S*$/, "");
+                    let postCat = $(postContent).find(".postHeader:eq(" + i + ")").find('.postCategory a').text();
+
+                    //Build Slides
+                    $('.news-slide' + i).css('background-image', 'url(' + featureImg + ')');
+                    $('.news-slide' + i + ' .news-card-title').append('<a href="' + postUrl + '">' + postTitle + '</a>');
+                    if (postExOrg >= excerptLength) {
+                        $('.news-slide' + i + ' .news-card-body').append(postEx + '...');
+                    } else {
+                        $('.news-slide' + i + ' .news-card-body').append(postEx);
+                    }
+                    $('.news-slide' + i + ' .news-card-tag').append('<a href="/apps/blog/post/category/' + postCat + '">' + postCat + '</a>');
+                    $('.news-slide' + i + ' .news-card-btn').attr('href', postUrl);
+                }
+            });
+        }
+    </script>
+    <script src="js/aos.js"></script>
+    <script type="text/javascript" src="js/jquery.viewportchecker.min.js"></script>
+    <script src="js/TweenMax.min.js" defer=""></script>
+    <script src="js/trifecta101518.js" defer=""></script>
+
+    <!--  -->
+
+
+
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+    <script src="js/vendor/main.js"></script>
+    <script src="js/flickity.pkgd.min.js"></script>
+    <script type="text/javascript" src="js/slider.js"></script>
+</body>
+
+</html>
